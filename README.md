@@ -1,3 +1,3 @@
 ## Sails JS Maintenance Page
 
-![alt text](docs/samples.png, "Sample")
+![alt text](docs/sample.png, "Sample")
